@@ -1,4 +1,4 @@
-name: amd64-config
+name: r5s-config
 
 on:
   workflow_dispatch:
